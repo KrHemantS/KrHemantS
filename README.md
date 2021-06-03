@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KrHemantS
+- 👋 Hi, I’m @iamhkarya
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Data Science and Business Analytics.
 - 💞️ I’m looking to gain some experience and upskill myself.
